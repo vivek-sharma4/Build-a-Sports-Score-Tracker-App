@@ -1,0 +1,28 @@
+{
+  "matches": [
+    {
+      "id": "496d",
+      "teamA": "Vizag",
+      "teamB": "Hyd",
+      "scoreA": "91",
+      "scoreB": "89",
+      "status": "Completed"
+    },
+    {
+      "id": "b775",
+      "teamA": "india",
+      "teamB": "Asu",
+      "scoreA": "300",
+      "scoreB": "250",
+      "status": "Completed"
+    },
+    {
+      "id": "1c88",
+      "teamA": "Team Neo",
+      "teamB": "Team Neo Zoom",
+      "scoreA": "100",
+      "scoreB": "120",
+      "status": "Completed"
+    }
+  ]
+}
